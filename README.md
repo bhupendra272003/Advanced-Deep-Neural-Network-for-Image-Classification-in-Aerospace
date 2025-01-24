@@ -19,7 +19,7 @@ This repository contains the implementation of an advanced deep neural network d
 The accurate installation of brackets is critical in aerospace manufacturing. This project leverages deep learning techniques to develop a robust image classification model that can identify correct and incorrect installations.
 
 ## Dataset
-The dataset used for this project consists of images of manual bracket installations. The images are labeled into different classes representing correct and incorrect installations. The dataset is split into training, validation, and testing sets.
+The dataset used for this project consists of images of manual bracket installations. The images are labeled into different classes representing correct and incorrect installations. The dataset is split into training and testing sets.
 
 ## Installation
 To get started, clone this repository and install the required dependencies.
