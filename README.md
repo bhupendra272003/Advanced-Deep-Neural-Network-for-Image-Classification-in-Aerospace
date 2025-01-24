@@ -28,10 +28,6 @@ To get started, clone this repository and install the required dependencies.
 ## Output
 ![output](https://github.com/user-attachments/assets/60199835-30bb-41c5-b90d-424f43186f3d)
 
-```bash
-git clone https://github.com/bhupendra272003/Advanced-Deep-Neural-Network-for-Image-Classification-of-manual-brackets-installation-in-Aerospace.git
-cd Advanced-Deep-Neural-Network-for-Image-Classification-of-manual-brackets-installation-in-Aerospace
-pip install -r requirements.txt
 
 Usage
 Follow the instructions below to run the model and perform image classification:
@@ -82,5 +78,7 @@ Open a pull request.
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-
-Feel free to customize this `README.md` file to better suit your project's needs. Let me know if there's anything else you need help with!
+```bash
+git clone https://github.com/bhupendra272003/Advanced-Deep-Neural-Network-for-Image-Classification-of-manual-brackets-installation-in-Aerospace.git
+cd Advanced-Deep-Neural-Network-for-Image-Classification-of-manual-brackets-installation-in-Aerospace
+pip install -r requirements.txt
