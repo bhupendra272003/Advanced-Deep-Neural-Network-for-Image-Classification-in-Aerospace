@@ -1,6 +1,5 @@
-# Advanced-Deep-Neural-Network-for-Image-Classification-of-manual-brackets-installation-in-Aerospace
+# Advanced Deep Neural Network for Image Classification in Aerospace
 
-# Advanced Deep Neural Network for Image Classification of Manual Brackets Installation in Aerospace
 
 This repository contains the implementation of an advanced deep neural network designed for the image classification of manual brackets installation in the aerospace industry. This project aims to automate the detection and classification of manual bracket installations to ensure accuracy and efficiency.
 
