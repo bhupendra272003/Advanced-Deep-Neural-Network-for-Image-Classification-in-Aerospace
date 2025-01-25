@@ -25,6 +25,29 @@ The dataset used for this project consists of images of manual bracket installat
 To get started, clone this repository and install the required dependencies.
 
 ## Output
+Train Data
+
+Epoch 1/10
+[1m8/8[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m35s[0m 4s/step - accuracy: 0.5115 - loss: 1.6662
+Epoch 2/10
+[1m8/8[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m35s[0m 4s/step - accuracy: 0.4838 - loss: 2.5253
+Epoch 3/10
+[1m8/8[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m33s[0m 4s/step - accuracy: 0.4964 - loss: 1.4595
+Epoch 4/10
+[1m8/8[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m33s[0m 4s/step - accuracy: 0.4725 - loss: 0.9741
+Epoch 5/10
+[1m8/8[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m32s[0m 4s/step - accuracy: 0.5370 - loss: 0.7657
+Epoch 6/10
+[1m8/8[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m33s[0m 4s/step - accuracy: 0.4945 - loss: 0.7245
+Epoch 7/10
+[1m8/8[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m24s[0m 3s/step - accuracy: 0.5013 - loss: 0.6930
+Epoch 8/10
+[1m8/8[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m43s[0m 3s/step - accuracy: 0.4969 - loss: 0.6966
+Epoch 9/10
+[1m8/8[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m24s[0m 3s/step - accuracy: 0.4442 - loss: 0.6947
+Epoch 10/10
+[1m8/8[0m [32m━━━━━━━━━━━━━━━━━━━━[0m[37m[0m [1m24s[0m 3s/step - accuracy: 0.5162 - loss: 0.6932
+
 ![output](https://github.com/user-attachments/assets/60199835-30bb-41c5-b90d-424f43186f3d)
 
 
